@@ -1,0 +1,27 @@
+{
+    "title": "Open Collection of Chemistry Notebooks",
+    "description": "Collection of chemistry notebooks relevant to chemistry",
+    "creators": [
+        {
+            "name": "Mikael Lund",
+            "affiliation": "Division of Theoretical Chemistry, Department of Chemistry, Lund University, Sweden",
+            "orcid": "0000-0001-8178-8175"
+        }
+    ],
+    "keywords": [
+        "chemistry",
+        "python",
+        "jupyter",
+        "electronic notebooks"
+    ],
+    "related_identifiers": [
+        {
+            "scheme": "url",
+            "identifier": "https://github.com/luchem/notebooks",
+            "relation": "isSupplementTo"
+        }
+    ],
+    "license": "cc-by-sa-4.0",
+    "access_right": "open",
+    "upload_type": "software"
+}
