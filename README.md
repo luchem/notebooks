@@ -19,5 +19,5 @@ Contributions are very welcome and done in the following steps:
 ### Dependencies
 
 Please avoid using exotic dependencies - we do not want to pin the python version,
-or common libraries. If your contribution have special needs, consider placing it
+or common libraries. If your contribution has special needs, consider placing it
 in a separate directory with it's own `environment.yml` file.
