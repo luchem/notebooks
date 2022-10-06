@@ -13,9 +13,11 @@ Contributions are very welcome and done in the following steps:
 
 1. Make a fork/branch of this repository
 2. Add files and update the `README.md` file in the chosen sub-directory
-2. Submit a pull-request (PR)
-3. Await review
+3. Submit a pull-request (PR)
+4. Await review
 
-Please avoid using exotic dependencies. If you cannot,
-consider placing your contribution in a separate directory with it's
-own `environment.yml` file.
+### Dependencies
+
+Please avoid using exotic dependencies - we do not want to pin the python version,
+or common libraries. If your contribution have special needs, consider placing it
+in a separate directory with it's own `environment.yml` file.
