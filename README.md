@@ -7,6 +7,19 @@ An open collection of educational Jupyter Notebooks relevant to chemistry.
 The notebooks can e.g. exemplify how to use a theory, process experimental data, or
 visualise data. It can also be tutorials, labs, etc.
 
+## Getting started
+
+We recommend to install
+[Anaconda](https://www.anaconda.com/) or the much smaller
+[miniconda](https://docs.conda.io/en/latest/miniconda.html).
+For the latter, the following installs all dependencies and starts
+[JupyterLab](https://jupyter.org) in a web-browser:
+~~~ bash
+conda env create -f environment.yml # done only once
+source activate luchem
+jupyter-lab
+~~~
+
 ## Contributing
 
 Contributions are very welcome and done in the following steps:
