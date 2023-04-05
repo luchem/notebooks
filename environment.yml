@@ -2,7 +2,7 @@ name: luchem
 channels:
     - conda-forge
 dependencies:
-    - python
+    - python=3
     - numpy
     - seaborn
     - matplotlib
