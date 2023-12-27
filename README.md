@@ -1,5 +1,6 @@
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/luchem/notebooks/HEAD)
 [![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC_BY--SA_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
+[![ruff](https://github.com/luchem/notebooks/actions/workflows/ruff.yml/badge.svg)](https://github.com/luchem/notebooks/actions/workflows/ruff.yml)
 
 # Open Archive of Educational Chemistry Notebooks
 
