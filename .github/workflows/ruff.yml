@@ -1,0 +1,12 @@
+name: ruff
+on: [push]
+jobs:
+  checks:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: ruff-check
+        id: ruff-check
+        uses: jpetrucciani/ruff-check@main
+        with:
+          path: '.'
