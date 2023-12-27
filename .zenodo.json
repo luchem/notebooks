@@ -14,7 +14,12 @@
         }
     ],
     "contributors": [
-        {"type": "Researcher", "name": "Per-Olof Widmark", "orcid": "0000-0002-6093-8186"}
+        {
+            "name": "Per-Olof Widmark",
+            "affiliation": "Division of Computational Chemistry, Department of Chemistry, Lund University, Sweden",
+            "orcid": "0000-0002-6093-8186",
+            "type": "Researcher"
+        }
     ],
     "keywords": [
         "chemistry",
