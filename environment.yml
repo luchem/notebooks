@@ -2,15 +2,18 @@ name: luchem
 channels:
     - conda-forge
 dependencies:
-    - python=3
-    - numpy
-    - seaborn
-    - matplotlib
-    - scipy<1.12
-    - pandas
-    - mdtraj
-    - faunus
+    - faunus=2
     - ipywidgets
-    - sympy
+    - jupyterlab
+    - jupyterlab-code-formatter
+    - matplotlib
+    - mdtraj
     - nglview
+    - numpy
+    - pandas
+    - python=3
+    - ruff
+    - scipy<1.12
+    - seaborn
+    - sympy
     - xlrd
