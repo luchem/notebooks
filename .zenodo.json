@@ -3,18 +3,18 @@
     "description": "An open collection of educational Jupyter Notebooks relevant to chemistry. The notebooks can e.g. exemplify how to use a theory, process experimental data, or visualise data. It can also be tutorials, labs, etc.",
     "creators": [
         {
-            "name": "Mikael Lund",
-            "affiliation": "Division of Theoretical Chemistry, Department of Chemistry, Lund University, Sweden",
-            "orcid": "0000-0001-8178-8175"
-        },
-        {
             "name": "Jens Uhlig",
             "affiliation": "Division of Chemical Physics, Department of Chemistry, Lund University, Sweden",
             "orcid": "0000-0002-0528-0422"
+        },
+        {
+            "name": "Mikael Lund",
+            "affiliation": "Division of Computational Chemistry, Department of Chemistry, Lund University, Sweden",
+            "orcid": "0000-0001-8178-8175"
         }
     ],
     "contributors": [
-        {"type": "Researcher", "name": "John Doe", "orcid": "0000-0000-0000-0000"}
+        {"type": "Researcher", "name": "Per-Olof Widmark", "orcid": "0000-0002-6093-8186"}
     ],
     "keywords": [
         "chemistry",
