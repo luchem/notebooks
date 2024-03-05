@@ -1,11 +1,8 @@
 name: luchem
-channels:
-    - conda-forge
 dependencies:
     - faunus=2
     - ipywidgets
     - jupyterlab
-    - jupyterlab-code-formatter
     - matplotlib
     - mdtraj
     - nglview
